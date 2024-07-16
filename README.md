@@ -13,7 +13,7 @@ This project implements a RESTful API using FastAPI to serve a list of Pokémon 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pokemon-api.git
+   git clone (https://github.com/jogkshen/pokemon.git)
    cd pokemon-api
 
 
